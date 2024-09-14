@@ -10,6 +10,12 @@ export default {
         'custom-blue': '#ECF2FF',
         'custom-light-blue': '#CAC9FF',
         'light-slate-blue': 'hsl(252, 100%, 67%)',
+        'custom-red': '#FF5555',
+        'custom-yellow': '#FFB21E',
+        'custom-green': '#00BB8F',
+        'custom-blue-two': '#1125D6'
+        
+        
       },
       backgroundImage: {
         'gradient-light-slate-blue': 'linear-gradient(45deg, hsl(252,100%,67%) 0%, hsl(252,100%,50%) 100%)',
