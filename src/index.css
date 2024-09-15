@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* styles.css or any CSS file */
+.hover-bg-red:hover {
+    @apply bg-rose-300;
+  }
+  
+  .hover-bg-yellow:hover {
+    @apply bg-amber-400;
+  }
+  
+  .hover-bg-green:hover {
+    @apply bg-green-400;
+  }
+  
+  .hover-bg-blue:hover {
+    @apply bg-indigo-400;
+  }
+  
