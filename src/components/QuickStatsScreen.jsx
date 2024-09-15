@@ -1,9 +1,9 @@
 import { useContext } from 'react'
 import { MyContext } from '../MyContext'
 import iconReaction from '../assets/icon-reaction.svg'
-import iconMemory from '../assets/icon-Memory.svg'
-import iconVerbal from '../assets/icon-Verbal.svg'
-import iconVisual from '../assets/icon-Visual.svg'
+import iconMemory from '../assets/icon-memory.svg'
+import iconVerbal from '../assets/icon-verbal.svg'
+import iconVisual from '../assets/icon-visual.svg'
 
 
 function QuickStatsScreen(){
