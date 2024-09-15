@@ -29,5 +29,16 @@ export default {
     },
   },
   plugins: [],
+  safelist: [
+    'text-custom-red',
+    'text-custom-yellow',
+    'text-custom-green',
+    'text-custom-blue-two',
+    'bg-rose-50',
+    'bg-amber-50',
+    'bg-green-50',
+    'bg-indigo-50',
+  ],
+
 }
 
