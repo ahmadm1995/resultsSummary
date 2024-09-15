@@ -4,6 +4,7 @@
     "score": 81,
     "textColor": "text-custom-red",
     "boxColor": "bg-rose-50",
+    "hoverColor": "bg-rose-400",
     "icon": "../assets/icon-reaction.svg"
   },
   {
@@ -11,6 +12,7 @@
     "score": 92,
     "textColor": "text-custom-yellow",
     "boxColor": "bg-amber-50",
+    "hoverColor": "bg-amber-400",
     "icon": "../assets/icon-memory.svg"
   },
   {
@@ -18,6 +20,7 @@
     "score": 61,
     "textColor": "text-custom-green",
     "boxColor": "bg-green-50",
+    "hoverColor": "bg-green-400",
     "icon": "../assets/icon-verbal.svg"
   },
   {
@@ -25,6 +28,7 @@
     "score": 72,
     "textColor": "text-custom-blue-two",
     "boxColor": "bg-indigo-50",
+    "hoverColor": "bg-indigo-400",
     "icon": "../assets/icon-visual.svg"
   }
 ]

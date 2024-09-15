@@ -38,7 +38,11 @@ export default {
     'bg-amber-50',
     'bg-green-50',
     'bg-indigo-50',
+    'bg-rose-400',
+    'bg-amber-400',
+    'bg-green-400',
+    'bg-indigo-400',
   ],
 
 }
-
+ 

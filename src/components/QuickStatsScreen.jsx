@@ -38,7 +38,10 @@ function QuickStatsScreen(){
 
     
     const displayItems = dataArray.map((item, index)=> (
-        <div key={index} className={`flex space-x-2 ${item.boxColor} rounded-md w-[288px] h-[56px] items-center px-[16px]`}>
+        
+      
+
+        <div key={index} className={`flex space-x-2 ${item.boxColor} hover:${item.hoverColor} rounded-md w-[288px] h-[56px] items-center px-[16px]`}>
             <img src={item.icon} />
             <h1 className={`flex-1 font-hanken font-medium text-[18px] ${item.textColor}`}>{item.category}</h1>
             <h1 className={`text-[18px]`}><strong>{item.score}</strong>  /  100</h1>
